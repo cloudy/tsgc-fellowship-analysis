@@ -3,9 +3,9 @@ import numpy as np
 
 # scrape rules
 start_year = 2008
-end_year = 2018
+end_year = 2019
 url_pre = 'http://www.tsgc.utexas.edu/grants/'
-award_type = 'scholars'
+award_type = 'fellows'
 all_data = pd.DataFrame()
 f_dir = ''
 
