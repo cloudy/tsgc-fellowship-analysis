@@ -23,7 +23,7 @@ NAME,INSTITUTION,MAJOR,YEAR
 Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Marshall, Randall",Texas A&M University-Corpus Christi,Geographic Information Science & Geomatics,2008
 "Martinez, Felix",University of Texas-Pan American,Mechanical Engineering,2008
-"May, Donald",Texas A&M University-Commerce,Physics/Computer Science,2008
+"May, Donald",Texas A&M University-Commerce,Physics & Computer Science,2008
 "Medellin, Abel",Texas A&M International University,Pre-Engineering,2008
 "Nava, Josie",University of Houston-Downtown,Biology,2008
 "Onate, Dan Jeffrey",University of Texas at El Paso,Electrical Engineering,2008
@@ -42,12 +42,12 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Zehr, Kelly",University of Texas at Dallas,Natural Science & Physics,2008
 "Aguirre, Alexander",University of Texas at El Paso,Computer & Electrical Engineering,2009
 "Allen, Jason",Texas Tech University,College of Engineering,2009
-"Ayala, Ivon",University of Texas at El Paso,Electrical and Computer Engineering,2009
+"Ayala, Ivon",University of Texas at El Paso,Electrical & Computer Engineering,2009
 "Barnes, Joshua",Lamar University,Mechanical Engineering,2009
 "Buescher, Cameron",Baylor University,Mechanical Engineering,2009
 "Caballero, John",Texas A&M University-Kingsville,Mechanical Engineering,2009
 "Carpenter, Brian",Texas A&M University,Biomedical Engineering,2009
-"Carroll, Sylvia",University of Texas at El Paso,Electrical and Computer Engineering,2009
+"Carroll, Sylvia",University of Texas at El Paso,Electrical & Computer Engineering,2009
 "Coleman, Corey",Texas Tech University,Engineering,2009
 "Dorethy, Todd",University of Texas at El Paso,College of Engineering,2009
 "Drury, Christopher",Texas A&M University,Aerospace Engineering,2009
@@ -61,8 +61,8 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Martinez, Felix",University of Texas-Pan American,Mechanical Engineering,2009
 "May, Donald",Texas A&M University,Physics & Computer Science,2009
 "Poole, Kristin",Trinity University,Engineering Science,2009
-"Powell, Robert",Prairie View A&M University,Civil and Environmental Engineering,2009
-"Ricks, Brian",University of Texas at Dallas,Engineering and Computer Science,2009
+"Powell, Robert",Prairie View A&M University,Civil & Environmental Engineering,2009
+"Ricks, Brian",University of Texas at Dallas,Engineering & Computer Science,2009
 "Smith, Micheal",Texas Southern University,Science & Technology,2009
 "Stephens, Timothy",Lamar University,Mechanical Engineering,2009
 "Stubblefield, Jeff",Texas Christian University,Engineering,2009
@@ -75,7 +75,7 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Blell, Zinzi",University of Texas Medical Branch-Galveston,Biomedical Science,2010
 "Bradley, Renika",University of Texas at Tyler,Mechanical Engineering,2010
 "Caballero, John",Texas A&M University-Kingsville,Mechanical Engineering,2010
-"Caldera, Alexandra",University of Texas at El Paso,Civil Engineering and Computer Science,2010
+"Caldera, Alexandra",University of Texas at El Paso,Civil Engineering & Computer Science,2010
 "Carl, Matthew",Lamar University,College of Engineering,2010
 "Carpenter, Jordan",Prairie View A&M University,Mathematics,2010
 "Craig, Hayden",Southern Methodist University,Mechanical Engineering & Math,2010
@@ -90,7 +90,7 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Montemayor, Rene",Texas A&M University,Medical & Executive Management,2010
 "Purgason, Ashley",University of Texas Medical Branch-Galveston,Health Science Enviornment,2010
 "Rossman, Grant",University of Texas at Austin,Aerospace Engineering,2010
-"Rovny, Jared",University of Dallas,Physics and Mathematics,2010
+"Rovny, Jared",University of Dallas,Physics & Mathematics,2010
 "Schulte, Peter",University of Texas at Austin,Aerospace Engineering,2010
 "Skeen, Dawn",Angelo State University,Physics,2010
 "Smith, Micheal",Texas Southern University,Physics,2010
@@ -104,7 +104,7 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Bredemann, John",University of Dallas,Physics,2011
 "Coleman, Corey",Texas Tech University,Engineering,2011
 "Glancy, Stephen",Trinity University,Engineering Science,2011
-"Grisham, James",University of Texas at Arlington,Mechanical and Aerospace Engineering,2011
+"Grisham, James",University of Texas at Arlington,Mechanical & Aerospace Engineering,2011
 "Hughes, Michael",Baylor University,Engineering & Computer Science,2011
 "Husseini, Sarah",Southern Methodist University,Chemistry,2011
 "Jackson, Kelly",Texas Christian University,Physics & Astronomy,2011
@@ -121,7 +121,7 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Stultz, Sheryl",Angelo State University,Mathematics,2011
 "Vasquez, Anthony",University of Texas at Austin,Physics,2011
 "Wynne, Karon",University of Texas Medical Branch-Galveston,Neuroscience,2011
-"Aguilar, Emmanuel",Texas Tech University,Electrical and Computer Engineering,2013
+"Aguilar, Emmanuel",Texas Tech University,Electrical & Computer Engineering,2013
 "Alabi, Folayinka",University of Houston,Mechanical Engineering,2013
 "An, Nicholas",University of Texas Medical Branch-Galveston,Medical Student,2013
 "Azocar, Alejandro",Texas A&M University,Aerospace Engineering,2013
@@ -136,14 +136,14 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Gonzalez, Miriam",University of Texas at El Paso,College of Science,2013
 "Mason, Murphy Aurthur",Lamar University,Civil Engineering,2013
 "Maxwell, Elisabeth",Lamar University,Biology,2013
-"Meyer, Brianne",Texas Christian University,Physics and Astronomy,2013
+"Meyer, Brianne",Texas Christian University,Physics & Astronomy,2013
 "Pannell, Russell",University of Houston-Clear Lake,Computer Engineering,2013
 "Patterson, Bria",University of Houston,Physics,2013
 "Stultz, Sheryl",Angelo State University,Natural Sciences & Mathematics,2013
 "Ramirez, Catherine",Texas State University-San Marcos,Nursing,2013
 "Ramirez, Suzanne",University of Texas-Pan American,Nursing,2013
 "Reyna, Juan",University of Houston,Engineering,2013
-"Shad, Sohail",University of Texas at Arlington,Mechanical and Aerospace Engineering,2013
+"Shad, Sohail",University of Texas at Arlington,Mechanical & Aerospace Engineering,2013
 "Sherman, Ashlee",Prairie View A&M University,Electrical Engineering,2013
 "Smith, Quaylon",Texas Southern University,Chemistry,2013
 "Sutton-Perez, Amber",Houston Community College Northwest,Biotechnology,2013
@@ -166,10 +166,10 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Reyes, Jose",Texas State University-San Marcos,Biochemistry,2014
 "Rivera, Kassandra",Texas Southern University,Biology,2014
 "Ruvalcaba, Nuri",University of Texas at Brownsville,Biological Sciences,2014
-"Smith, Karen",University of North Texas,Mechanical and Energy Engineering,2014
+"Smith, Karen",University of North Texas,Mechanical & Energy Engineering,2014
 "Steiner, Adam",University of Texas at Dallas,Electrical Engineering,2014
 "Stewart, Mack",University of Texas at Tyler,Mechanical Engineering,2014
-"Suffka, Cheyanne",Texas Christian University,Physics and Astronomy,2014
+"Suffka, Cheyanne",Texas Christian University,Physics & Astronomy,2014
 "Tatum, Tane",Baylor University,Mechanical Engineering,2014
 "Ward, Ayzha",Texas Southern University,Computer Science,2014
 "Weaver, Kamdon",Lamar University,Engineering,2014
@@ -198,18 +198,18 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Rother, Garrett",Texas A&M University-Kingsville,Chemical Engineering,2015
 "Rusnak, Richard",University of Texas at Austin,Electrical Engineering,2015
 "Shipp, William",University of Texas at El Paso,Chemical Engineering,2015
-"Solis, Angel",University of Texas at El Paso,Electrical and Computer Engineering,2015
+"Solis, Angel",University of Texas at El Paso,Electrical & Computer Engineering,2015
 "Taylor, Tracey",Texas Southern University,Chemistry,2015
 "Torres, Roberto",Lamar University,Mechanical Engineering,2015
 "Vazquez, Emmanuel",Texas A&M University-Kingsville,Mechanical Engineering,2015
 "Ward, Ayzha",Texas Southern University,Computer Science,2015
-"Young, Craig",University of North Texas,Mechanical and Energy Engineering,2015
+"Young, Craig",University of North Texas,Mechanical & Energy Engineering,2015
 "Almallahi, Rawan",University of Houston,Chemical Engineering,2016
-"Arce, Abel",Texas A&M University-Commerce,Physics and Astronomy,2016
+"Arce, Abel",Texas A&M University-Commerce,Physics & Astronomy,2016
 "Arnold, Willie",Prairie View A&M University,Civil Engineering,2016
 "Bastami, Sepehr",University of North Texas,Mechanical & Energy Engineering,2016
 "Berkstresser, Katelynn",Texas A&M University-Commerce,Education,2016
-"Buckingham, Jeremy",University of Texas at Arlington,Mechanical and Aerospace Engineering,2016
+"Buckingham, Jeremy",University of Texas at Arlington,Mechanical & Aerospace Engineering,2016
 "Chung, Brandon",University of Texas at El Paso,Chemistry,2016
 "Daniels, Jasmine",Texas Southern University,Chemistry,2016
 "Eilbott, Daniel",University of Texas at Dallas,Physics,2016
@@ -225,17 +225,17 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "James, Jaylen",Prairie View A&M University,Mechanical Engineering,2016
 "Kablawi, Vatima",University of Houston,Chemistry & ChemEngr,2016
 "Kirkendall, Alyssa",University of Texas at San Antonio,Geology,2016
-"Lehnen, Jamie",University of Houston,Natural Science and Mathematics,2016
+"Lehnen, Jamie",University of Houston,Natural Science & Mathematics,2016
 "Lira, Nicholas",University of Texas at Arlington,Mechanical Engineering,2016
 "Livernois, Alissa",Southern Methodist University,Statistical Science,2016
 "Madrid, Andrew",University of Texas at El Paso,Engineering,2016
 "McCoy III, Raymond",Houston Community College Northwest,Engineering,2016
-"McCullough, Shawn",University of Texas at Arlington,Mechanical and Aerospace Engineering,2016
+"McCullough, Shawn",University of Texas at Arlington,Mechanical & Aerospace Engineering,2016
 "Nance, Patricia",Southern Methodist University,Chemistry,2016
 "Okafor, Fred",Prairie View A&M University,Engineering,2016
 "Preisser, Alex",University of Texas at Arlington,Mechanical Engineering,2016
 "Reyes, Jesus",University of Texas at El Paso,Science,2016
-"Richstein, Hannah",Texas Christian University,Physics and Astronomy,2016
+"Richstein, Hannah",Texas Christian University,Physics & Astronomy,2016
 "Riley, Alexander",University of Texas at Dallas,Physics,2016
 "Rios, Davida",University of Texas at Tyler,Chemistry & Biochemistry,2016
 "Robinson, Keilon",Texas Southern University,Chemistry,2016
@@ -260,7 +260,7 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Judge, Joanne",Lone Star College,Engineering,2017
 "Kahraman, Adem",Texas A&M University-Commerce,Physics,2017
 "Kirkendall, Alyssa",University of Texas at San Antonio,Geology,2017
-"Kubicek, Regan",University of Texas at Arlington,Mechanical and Aerospace Engineering,2017
+"Kubicek, Regan",University of Texas at Arlington,Mechanical & Aerospace Engineering,2017
 "Leach, Daniel",University of Houston-Clear Lake,College of Science & Mathmatics,2017
 "Lehnen, Jamie",University of Houston,Biochemical & Biophysical Sciences,2017
 "Livermore, Charles",University of Houston-Downtown,Mathematics & Statistics,2017
@@ -281,7 +281,7 @@ Mai	Chi,Texas A&M University,Aerospace Engineering,2008
 "Schmitt, Sydney",Southern Methodist University,Chemistry,2017
 "Schroers, Melanie",Texas A&M University-Commerce,Physics,2017
 "Shepherd, Bailey",University of Texas Southwestern Medical Center,Medical School,2017
-"Sorto-Ramos, Elida",University of Texas at Arlington,Mechanical and Aerospace Engineering,2017
+"Sorto-Ramos, Elida",University of Texas at Arlington,Mechanical & Aerospace Engineering,2017
 "Utaegbulam, David",Texas Southern University,Chemistry,2017
 "Whitehead, Alisha",University of Texas at Dallas,Physics,2017
 "Bastami, Sepehr",University of North Texas,Mechanical & Energy Engineering,2018
